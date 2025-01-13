@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @totzebi
 - 👀 I’m interested in data journalism and history
 - 🌱 I’m currently learning R visualization
-- 💞️ I’m looking to collaborate on tackling social challenges
+- 💞️ I’m looking for collaborating on tackling social challenges
 - 📫 How to reach me, mail me juggy1@naver.com
 - 😄 Pronouns: he
 - ⚡ Fun fact: |->
